@@ -6,7 +6,7 @@ Linked classes in HTML to CSS and added semantic HTML. Added accessibility featu
 ![Screen Shot 2023-11-16 at 4 02 09 PM](https://github.com/cmfyoung/Horiseon-Refactor/assets/150183426/0036fe7f-7f2d-401a-a09c-0bf38e0ca442)
 
 ###Deployment Link
-cmfyoung.github.io/Horiseon-Refactor 
+[cmfyoung.github.io/Horiseon-Refactor ](https://cmfyoung.github.io/Horiseon-Refactor/)
 
 ####Acknowledgements
 Project assistance from Diego Struk Jaia during office hours and Carlin Shaw during tutoring session
